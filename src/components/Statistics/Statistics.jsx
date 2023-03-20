@@ -10,7 +10,6 @@ export const Statistics = ({
   return (
     <div>
       <div>
-        <h3>Statistics</h3>
         <ul>
           <li>
             <span>Good:</span>
