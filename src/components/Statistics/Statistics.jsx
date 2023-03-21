@@ -1,5 +1,3 @@
-import { feedbackCategories } from 'constants';
-
 export const Statistics = ({
   good,
   neutral,
